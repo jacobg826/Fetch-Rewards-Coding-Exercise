@@ -1,0 +1,2 @@
+rootProject.name = "FetchRewardsTest"
+include ':app'
